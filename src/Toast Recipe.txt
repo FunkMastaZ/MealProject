@@ -1,0 +1,11 @@
+﻿Toast Recipe
+Make delicious toast!
+Ingredients
+* 1 Slice of bread
+Instructions
+1. Set the toaster to your desired toast level.
+2. Insert bread into toaster. 
+3. Start toaster.
+4. Wait for toaster.
+5. Remove toast from toaster 
+6. Plate and serve.
